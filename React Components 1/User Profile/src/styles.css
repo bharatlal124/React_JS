@@ -1,0 +1,39 @@
+/* Write code for your CSS here */
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 5px 0;
+
+  }
+
+  .name{
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 30px;
+    /* display: -ms-inline-grid; */
+    
+  }
+  
+  li {
+    
+    margin-left: 5px;
+    display: inline;
+    /* border: 1px solid black; */
+    border-radius: 3px;
+    background-color: aqua;
+    padding: 4px;
+    
+    
+  }
